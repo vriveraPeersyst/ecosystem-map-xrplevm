@@ -43,6 +43,7 @@ const SECTIONS: {
       "moai.png",
       "gas.zip.png",
       "elys.png",
+      "helix.png",
       "easya.png",
       "riddle.png",
       "xrise33.png",
