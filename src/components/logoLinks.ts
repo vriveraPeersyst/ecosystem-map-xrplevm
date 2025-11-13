@@ -134,6 +134,8 @@ const logoLinks: Record<string, string> = {
   'geochain.png': 'https://geo-chain.xyz/',
   'xrpawz.png': 'https://xrpawz.com',
   'yellow.png': 'https://www.yellow.org/',
+  'explorer-dapp-ens.png': 'https://ens.xrplevm.org/',
+  'explorer-dapp-reown-dapp.png': 'https://reown-xrpl-dapp.vercel.app/',
 
   // Bridges
 

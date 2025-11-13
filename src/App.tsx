@@ -88,6 +88,8 @@ const SECTIONS: {
       "zkcodex.png",
       "geochain.png",
       "xrpawz.png",
+      "explorer-dapp-ens.png",
+      "explorer-dapp-reown-dapp.png",
     ],
   },
   {
