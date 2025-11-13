@@ -64,6 +64,7 @@ const SECTIONS: {
       "walkit.png",
       "nexusdapp.png",
       "injective.png",
+      "yellow.png",
       "noble.png",
       "securd.png",
       "strobe.png",

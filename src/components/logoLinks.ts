@@ -103,6 +103,7 @@ const logoLinks: Record<string, string> = {
   'fomobiz.png': 'https://fomo.biz/',
   'gas.zip.png': 'https://www.gas.zip/',
   'injective.png': 'https://injective.com/',
+
   'helix.png': 'https://helixapp.com/futures/xrp-usdt-perp',
   'mars.png': 'https://marsgate.xyz/',
   'nexusdao.png': 'https://nexus.dao.ai/',
@@ -132,6 +133,7 @@ const logoLinks: Record<string, string> = {
   'copump.png': 'https://copump.xyz',
   'geochain.png': 'https://geo-chain.xyz/',
   'xrpawz.png': 'https://xrpawz.com',
+  'yellow.png': 'https://www.yellow.org/',
 
   // Bridges
 
