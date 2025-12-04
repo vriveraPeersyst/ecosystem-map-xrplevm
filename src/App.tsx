@@ -128,6 +128,7 @@ const SECTIONS: {
       "rpcdot.png",
       "stavr.png",
       "interscan.png",
+      "winsnip.png",
     ],
   },
   {
@@ -158,7 +159,7 @@ const SECTIONS: {
       "rhino.png",
       "cosmostation.png",
       "cryptosurvivor.png",
-      "xtoadz.png"
+      "cryptocrew.png",
     ],
   },
   {

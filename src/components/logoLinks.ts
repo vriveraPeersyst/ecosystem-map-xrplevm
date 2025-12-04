@@ -147,6 +147,7 @@ const logoLinks: Record<string, string> = {
   'forbole_bigd 1.png': 'https://governance.xrplevm.org/',
   'nodeshubexplorer.png': 'https://explorer.nodeshub.online/xrpl',
   'interscan.png': 'https://xrplevm.interscan.pro/',
+  'winsnip.png': 'https://winscan.winsnip.xyz/xrpl-mainnet',
   // Providers
   'xss.png': 'https://services.xsslabs.tech/xrpl-evm/installation',
   'noders.png': 'https://noders.services/mainnet/xrp',
@@ -163,7 +164,7 @@ const logoLinks: Record<string, string> = {
   'nexus.png': 'https://www.thenexusportal.io/',
   'rhino.png': 'https://rhinostake.com/',
   'sg1.png': 'https://sg-1.online/',
-  'xtoadz.png': 'https://x.com/xtoadz',
+  'cryptocrew.png': 'https://ccvalidators.com/',
   // Wallets
   'leap.png': 'https://www.leapwallet.io/',
   'bifrost.png': 'https://bifrostwallet.com',
